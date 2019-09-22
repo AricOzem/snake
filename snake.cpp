@@ -5,6 +5,8 @@
 #include<Windows.h>
 #include "conio.h"
 
+#define EasterEgg 2019922
+
 #define YELLOW 14
 #define GREEN 10
 #define RED 12
